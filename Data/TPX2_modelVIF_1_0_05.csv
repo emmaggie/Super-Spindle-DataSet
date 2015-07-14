@@ -1,0 +1,17 @@
+"","P_lt_0_05"
+"AreaShape_Zernike_3_3",0.0186937848600796
+"AreaShape_Zernike_8_8",0.0274006992303379
+"AreaShape_Zernike_9_7",0.0138327192948337
+"Intensity_MaxIntensityEdge_DNA",0.0226595830586472
+"Intensity_MaxIntensityEdge_Rhodamine",0.0108349151630543
+"Intensity_MaxIntensity_DNA",0.0131368175927799
+"Intensity_MeanIntensity_DNA",0.0414679831484249
+"Intensity_MedianIntensity_DNA",0.0189825719557136
+"Intensity_MinIntensity_DNA",0.0383056377365943
+"Intensity_UpperQuartileIntensity_Rhodamine",0.03644023053815
+"Mean_FilteredChromatin_AreaShape_MinorAxisLength",0.0276827753246363
+"Mean_FilteredChromatin_Intensity_MaxIntensity_DNA",0.026372235587501
+"Mean_FilteredChromatin_Intensity_MaxIntensity_Rhodamine",0.0316321532492394
+"Mean_FilteredChromatin_Intensity_MinIntensity_Rhodamine",0.0264455510896134
+"Mean_FilteredChromatin_Number_Object_Number",0.0180692316609218
+"Euclidian_norm_centers",0.0384724063568116

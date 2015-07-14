@@ -1,0 +1,13 @@
+ImageNumber
+ObjectNumber
+Metadata_Experiment
+Metadata_Experimenter
+Metadata_FileLocation
+Metadata_Frame
+Metadata_Series
+Metadata_Set
+Metadata_Treatment
+Metadata_Type
+Metadata_cvsp
+Number_Object_Number
+

@@ -1,0 +1,13 @@
+"","P_lt_0_01"
+"AreaShape_FormFactor",0.00692227615716199
+"AreaShape_MaxFeretDiameter",0.00654233448619318
+"AreaShape_Zernike_1_1",0.00308362346281271
+"AreaShape_Zernike_8_6",0.00966329932900437
+"AreaShape_Zernike_9_9",0.00309763234741705
+"Intensity_MeanIntensityEdge_Rhodamine",0.00233889255202117
+"Intensity_UpperQuartileIntensity_DNA",0.00113107158903004
+"Mean_FilteredChromatin_AreaShape_Zernike_6_6",0.00660284987337183
+"Mean_FilteredChromatin_Intensity_MedianIntensity_DNA",0.00138146296054698
+"Mean_FilteredChromatin_Intensity_MinIntensityEdge_Rhodamine",0.00986447263191032
+"Mean_FilteredChromatin_Intensity_UpperQuartileIntensity_DNA",0.00108030114313261
+"Parent_Spindles",0.00221302514121405
