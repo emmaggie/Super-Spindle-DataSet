@@ -1,2 +1,0 @@
-# MACHINE_GENERATED
-version_string = '2014-07-23T17:39:57 6c2d896'
