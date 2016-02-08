@@ -1,4 +1,4 @@
 # Super-Spindle-DataSet
-Companion repository for the Super Spindle Dataset paper.     
+Companion repository for the paper:     
 
-Multivariate image analysis reveals composition-dependent architectural features of Xenopus extract spindles.     
+A versatile multivariate image analysis pipeline reveals features of Xenopus extract spindles.     
